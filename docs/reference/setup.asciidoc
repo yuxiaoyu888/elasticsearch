@@ -65,7 +65,7 @@ take care of starting and stopping the Elasticsearch process for you.
 *************************************************************************
 There are added features when using the `elasticsearch` shell script.
 The first, which was explained earlier, is the ability to easily run the
-process either in the foreground or the background.
+process either in the foreground or the background.   
 
 Another feature is the ability to pass `-D` or getopt long style
 configuration parameters directly to the script. When set, all override
